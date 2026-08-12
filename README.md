@@ -84,7 +84,7 @@ Results written to:     data/flagged_anomalies.csv
 
 ## Report
 
-See [`report/Isolation_Forest_Insider_Threat_Report.docx`](report/Isolation_Forest_Insider_Threat_Report.docx)
+See [`report/Isolation_Forest_Insider_Threat_Report.docx`]
 for the full write-up: problem statement, methodology, dataset
 description, results, limitations, and recommendations.
 
